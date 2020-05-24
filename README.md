@@ -1,5 +1,5 @@
 # text_matching_for_electric
-电力领域文本匹配， 模型acc为 0.868
+电力领域文本匹配
 
 ## 机器
 2080 Ti * 1
