@@ -10,10 +10,10 @@ python 3.5
 
 ## Usage
 
-1. 下载预训练好的模型及词表
-	cd bert_model
-	wget https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz && tar -zxvf bert-base-chinese.tar.gz 
-	 wget https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-vocab.txt  && mv bert-base-chinese-vocab.txt  vocab.txt
+1. 下载预训练好的模型及词表</br>
+	cd bert_model</br>
+	wget https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz && tar -zxvf bert-base-chinese.tar.gz</br>
+	 wget https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese-vocab.txt  && mv bert-base-chinese-vocab.txt  vocab.txt</br>
 	
-2. 训练模型
+2. 训练模型</br>
 	sh run_bert.sh
